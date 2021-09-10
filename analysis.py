@@ -9,5 +9,4 @@ from util import image_path_gen, skimage_hyperparam_tuning, skimage_imshow_compl
 
 def grayscale_histogram(im_gray):
     # largely pulled from https://datacarpentry.org/image-processing/05-creating-histograms/
-
-    
+    pass

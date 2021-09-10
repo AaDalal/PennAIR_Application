@@ -1,0 +1,65 @@
+# packages in environment at C:\Users\HP\Anaconda3\envs\pennairapp:
+#
+# Name                    Version                   Build  Channel
+ca-certificates           2021.5.30            h5b45459_0    conda-forge
+certifi                   2021.5.30        py37h03978a9_0    conda-forge
+cloudpickle               0.6.1                      py_0    conda-forge/label/cf201901
+cycler                    0.10.0                     py_1    conda-forge/label/cf201901
+cytoolz                   0.9.0.1         py37hfa6e2cd_1001    conda-forge/label/cf201901
+dask-core                 1.0.0                      py_0    conda-forge/label/cf201901
+decorator                 4.3.0                      py_0    conda-forge/label/cf201901
+freetype                  2.9.1             he8b6a0d_1004    conda-forge/label/cf201901
+icu                       58.2                 ha925a31_3  
+imageio                   2.4.1                 py37_1000    conda-forge/label/cf201901
+imutils                   0.5.4            py37h03978a9_0    conda-forge
+intel-openmp              2021.3.0          h57928b3_3372    conda-forge
+joblib                    1.0.1              pyhd8ed1ab_0    conda-forge
+jpeg                      9c                hfa6e2cd_1001    conda-forge/label/cf201901
+kiwisolver                1.0.1           py37he980bc4_1002    conda-forge/label/cf201901
+libblas                   3.9.0                     8_mkl    conda-forge
+libcblas                  3.9.0                     8_mkl    conda-forge
+liblapack                 3.9.0                     8_mkl    conda-forge
+libpng                    1.6.36            h7602738_1000    conda-forge/label/cf201901
+libtiff                   4.0.10            h36446d0_1001    conda-forge/label/cf201901
+libwebp                   1.0.0            vc14h36c3e75_0  [vc14]  conda-forge/label/cf201901
+m2w64-gcc-libgfortran     5.3.0                         6    conda-forge
+m2w64-gcc-libs            5.3.0                         7    conda-forge
+m2w64-gcc-libs-core       5.3.0                         7    conda-forge
+m2w64-gmp                 6.1.0                         2    conda-forge
+m2w64-libwinpthread-git   5.0.0.4634.697f757               2    conda-forge
+matplotlib                2.2.3            py37h31860fd_0    conda-forge/label/cf201901
+matplotlib-base           3.0.2           py37h3e3dc42_1001    conda-forge/label/cf201901
+mkl                       2020.4             hb70f87d_311    conda-forge
+msys2-conda-epoch         20160418                      1    conda-forge
+networkx                  2.2                        py_1    conda-forge/label/cf201901
+numpy                     1.18.1           py37hc71023c_0    conda-forge
+olefile                   0.46                       py_0    conda-forge/label/cf201901
+opencv                    3.4.4           py37hb76ac4c_1203    conda-forge/label/cf201901
+openssl                   1.0.2u               hfa6e2cd_0    conda-forge
+pillow                    5.4.1           py37h9a613e6_1000    conda-forge/label/cf201901
+pip                       18.1                  py37_1000    conda-forge/label/cf201901
+pyparsing                 2.3.0                      py_0    conda-forge/label/cf201901
+pyqt                      5.6.0           py37h764d66f_1008    conda-forge/label/cf201901
+python                    3.7.1             hc182675_1000    conda-forge/label/cf201901
+python-dateutil           2.7.5                      py_0    conda-forge/label/cf201901
+python_abi                3.7                     2_cp37m    conda-forge
+pytz                      2018.9                     py_0    conda-forge/label/cf201901
+pywavelets                1.0.1           py37h452e1ab_1000    conda-forge/label/cf201901
+qt                        5.6.2                h2639256_8    conda-forge/label/cf201901
+scikit-image              0.14.1          py37h6538335_1004    conda-forge/label/cf201901
+scikit-learn              0.24.2           py37h8ded0a9_0    conda-forge
+scipy                     1.6.3            py37h924764e_0    conda-forge
+setuptools                40.6.3                   py37_0    conda-forge/label/cf201901
+sip                       4.18.1          py37h6538335_1000    conda-forge/label/cf201901
+six                       1.12.0                py37_1000    conda-forge/label/cf201901
+sqlite                    3.26.0            hfa6e2cd_1000    conda-forge/label/cf201901
+threadpoolctl             2.2.0              pyh8a188c0_0    conda-forge
+tk                        8.6.9             hfa6e2cd_1000    conda-forge/label/cf201901
+toolz                     0.9.0                      py_1    conda-forge/label/cf201901
+tornado                   5.1.1           py37hfa6e2cd_1000    conda-forge/label/cf201901
+ucrt                      10.0.20348.0         h57928b3_0    conda-forge
+vc                        14.2                 hb210afc_5    conda-forge
+vs2015_runtime            14.29.30037          h902a5da_5    conda-forge
+wheel                     0.32.3                   py37_0    conda-forge/label/cf201901
+wincertstore              0.2                   py37_1002    conda-forge/label/cf201901
+zlib                      1.2.11                   vc14_0  [vc14]  conda-forge/label/cf201901
